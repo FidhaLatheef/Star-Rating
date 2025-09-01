@@ -1,6 +1,14 @@
 .active{
-    color:yellow
+    color:yellow;
 }
 .inactive{
-    color:black
+    color:black;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(210, 218, 218);
+    height:100vh;
+
 }
